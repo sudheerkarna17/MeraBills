@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MeraBills</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="enter_provider">Enter Provider</string>
+    <string name="enter_transaction_reference">Enter Transaction Reference</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="add_payment">Add Payment</string>
+    <string name="payments">Payments</string>
+    <string name="please_enter_transaction_reference">Please enter transaction reference</string>
+    <string name="please_enter_provider">Please enter provider</string>
+    <string name="please_enter_amount">Please enter amount</string>
+    <string name="no_payments">No Payments</string>
+</resources>
